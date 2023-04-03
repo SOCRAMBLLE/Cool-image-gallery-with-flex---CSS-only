@@ -1,4 +1,4 @@
-# Image gallery with hover efect with flex, using only CSS
+# Image gallery with hover effect with flex, using only CSS
 Cool image gallery effect with hover using only CSS and flex.
 
 <div align="center"><img src="/preview.gif"></div>
